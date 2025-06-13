@@ -5,7 +5,7 @@ data: {"id":"chatcmpl-ABfwERreu9s99xXsVuOWtIB2UOx62","object":"chat.completion.c
 data: {"id":"chatcmpl-ABfwERreu9s99xXsVuOWtIB2UOx62","object":"chat.completion.chunk","created":1727346182,"model":"gpt-4o-2024-08-06","system_fingerprint":"fp_143bb8492c","choices":[{"index":0,"delta":{"tool_calls":[{"index":0,"function":{"arguments":"city"}}]},"logprobs":null,"finish_reason":null}]}
 
 data: {"id":"chatcmpl-ABfwERreu9s99xXsVuOWtIB2UOx62","object":"chat.completion.chunk","created":1727346182,"model":"gpt-4o-2024-08-06","system_fingerprint":"fp_143bb8492c","choices":[{"index":0,"delta":{"tool_calls":[{"index":0,"function":{"arguments":"\":\""}}]},"logprobs":null,"finish_reason":null}]}
-
+.pytest_cache
 data: {"id":"chatcmpl-ABfwERreu9s99xXsVuOWtIB2UOx62","object":"chat.completion.chunk","created":1727346182,"model":"gpt-4o-2024-08-06","system_fingerprint":"fp_143bb8492c","choices":[{"index":0,"delta":{"tool_calls":[{"index":0,"function":{"arguments":"New"}}]},"logprobs":null,"finish_reason":null}]}
 
 data: {"id":"chatcmpl-ABfwERreu9s99xXsVuOWtIB2UOx62","object":"chat.completion.chunk","created":1727346182,"model":"gpt-4o-2024-08-06","system_fingerprint":"fp_143bb8492c","choices":[{"index":0,"delta":{"tool_calls":[{"index":0,"function":{"arguments":" York"}}]},"logprobs":null,"finish_reason":null}]}
